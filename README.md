@@ -26,4 +26,4 @@ Tem a possibilidade de acessar as notícias propostas pelos professores logo na 
 ● CSS - Para estilizar o site, deixando o mesmo com todos os aspectos característicos desejados.
 
 
-link do jornal:
+link do jornal: https://asiuluisa.github.io/JJ.jornal/
